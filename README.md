@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="git banner.gif" alt="Hey, I'm Kanishka!" width="100%" />
+  <img src="git banner.gif" alt="Hey, I'm Kanishka!" width="600" />
 </div>
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/kanishka-kshirsagar](https://www.linkedin.com/in/kanishka-kshirsagar-483b862b5/))
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanik10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-614c90.svg?style=for-the-badge)](https://www.linkedin.com/in/kanishka-kshirsagar-483b862b5/)
+[![GitHub](https://img.shields.io/badge/GitHub-614c90.svg?style=for-the-badge)](https://github.com/kanik10)
 
 </div>
 
 ---
 
-## 🪐 About Me
+## 🌌 About Me
 
 Hello! I'm **Kanishka Kshirsagar**, a Computer Engineering student (Honors in **Cybersecurity**) from Mumbai, India. I love building full-stack and AI-integrated systems that are scalable, secure, and actually useful.
 
@@ -21,7 +21,7 @@ Hello! I'm **Kanishka Kshirsagar**, a Computer Engineering student (Honors in **
 
 ---
 
-## 🛸 Tech Stack
+## ⚙️ Tech Stack
 
 **Languages**
 
@@ -70,29 +70,29 @@ Hello! I'm **Kanishka Kshirsagar**, a Computer Engineering student (Honors in **
 
 ---
 
-## 🌌 Projects
+## 🛰️ Projects
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Smart Career Path](https://github.com/kanik10)** | MERN, Groq AI | JWT auth, ATS resume analyzer, AI career advisory, gamification with XP & leaderboards |
-| **[IntelliCampus](https://github.com/kanik10)** | Next.js, TypeScript, PostgreSQL, Pinecone, Redis | RAG tutoring pipeline, semantic cache, adaptive quizzes, multi-role API |
-| **[Spam Detection System](https://github.com/kanik10)** | Python, Flask, scikit-learn, spaCy | Naive Bayes + TF-IDF, Gmail IMAP live classification |
-| **[Diabetes Prediction System](https://github.com/kanik10)** | Python, Flask, Logistic Regression | End-to-end ML pipeline, REST API inference |
+| **[Smart Career Path](https://github.com/kanik10/Smart-Career-Path)** | MERN, Groq AI | JWT auth, ATS resume analyzer, AI career advisory, gamification with XP & leaderboards |
+| **[IntelliCampus](https://github.com/RayyanKimoi/IntelliCampus)** | Next.js, TypeScript, PostgreSQL, Pinecone, Redis | RAG tutoring pipeline, semantic cache, adaptive quizzes, multi-role API |
+| **[Spam Detection System](https://github.com/kanik10/spam-classifier)** | Python, Flask, scikit-learn, spaCy | Naive Bayes + TF-IDF, Gmail IMAP live classification |
+| **[Diabetes Prediction System](https://github.com/kanik10/Diabetes-Prediction-System)** | Python, Flask, Logistic Regression | End-to-end ML pipeline, REST API inference |
 
 ---
 
-## 📊 Statistics
+## ⭐ Statistics
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kanik10&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
+![GitHub Streak](https://streak-stats.demolab.com?user=kanik10&theme=tokyonight&hide_border=true&background=0d1117&ring=b9a1e7&fire=b9a1e7&currStreakLabel=b9a1e7&stroke=98c8eb&dates=ffffff&sideNums=98c8eb&sideLabels=b9a1e7&currStreakNum=98c8eb)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kanik10&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kanik10&color=7b27b5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <div align="center">
