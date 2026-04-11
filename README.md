@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="git_banner.gif" alt="Hey, I'm Kanishka!" width="100%" />
+  <img src="git banner.gif" alt="Hey, I'm Kanishka!" width="100%" />
 </div>
 
 ---
