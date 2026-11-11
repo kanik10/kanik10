@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="git banner.gif" alt="Hey, I'm Kanishka!" width="600" />
-</div>
+<p align="center">
+  <img src="spiral-galaxy.gif" alt="Spiral Galaxy, animated ASCII art" width="720">
+</p>
 
 ---
 
