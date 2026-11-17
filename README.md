@@ -15,9 +15,7 @@
 
 ## 🌌 About Me
 
-Hello! I'm **Kanishka Kshirsagar**, a Computer Engineering student (Honors in **Cybersecurity**) from Mumbai, India. I love building full-stack and AI-integrated systems that are scalable, secure, and actually useful.
-
-- Currently diving deep into **Deep Learning**, **Neural Networks**, and **RAG pipelines**
+Hello, I'm Kanishka a final-year Computer Engineering student (Honors in Cybersecurity) who builds full-stack and AI-powered products and designs them too. I enjoy turning messy, real-world problems into working software, from RAG-based assistants to fraud detection systems. Outside code, I do freelance graphic design and video editing.
 
 ---
 
