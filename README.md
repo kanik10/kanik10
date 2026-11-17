@@ -15,7 +15,7 @@
 
 ## 🌌 About Me
 
-Hello, I'm Kanishka a final-year Computer Engineering student (Honors in Cybersecurity) who builds full-stack and AI-powered products and designs them too. I enjoy turning messy, real-world problems into working software, from RAG-based assistants to fraud detection systems. Outside code, I do freelance graphic design and video editing.
+Hello, I'm Kanishka, a final-year Computer Engineering student (Honors in Cybersecurity) who builds full-stack and AI-powered products and designs them too. I enjoy turning messy, real-world problems into working software, from RAG-based assistants to fraud detection systems. Outside code, I do freelance graphic design and video editing.
 
 ---
 
