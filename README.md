@@ -72,7 +72,7 @@ Hello, I'm Kanishka, a final-year Computer Engineering student (Honors in Cybers
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[IntelliCampus](https://github.com/RayyanKimoi/IntelliCampus)** | Next.js, TypeScript, PostgreSQL, Pinecone, Redis | RAG tutoring pipeline, semantic cache, adaptive quizzes, multi-role API |
+| **[IntelliCampus](https://github.com/RayyanKimoi/IntelliCampus)** | Next.js, TypeScript, PostgreSQL, Pinecone, Redis | Curriculum-grounded RAG tutoring pipeline (Pinecone) with a Redis semantic cache to cut redundant LLM calls, adaptive quizzes targeting each student’s weak concepts, multi-role REST API (student/teacher/admin) secured with JWT, RBAC, and OTP login, product UI/UX designed in Figma |
 | **[Abuse-Ring-Sentinel](https://github.com/kanik10/Abuse-Ring-Sentinel)** | Python, NetworkX, scikit-learn, Streamlit, D3.js, ReportLab, Docker | Graph-native fraud syndicate detection (Louvain + referral-cycle features), 100% precision/recall on 28 planted rings, 90.4% of fraud volume intercepted pre-clearance via zero-lookahead temporal backtest, SHAP explainability, SHA-256 hash-chained audit log |
 
 
