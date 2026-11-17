@@ -74,10 +74,9 @@ Hello! I'm **Kanishka Kshirsagar**, a Computer Engineering student (Honors in **
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Smart Career Path](https://github.com/kanik10/Smart-Career-Path)** | MERN, Groq AI | JWT auth, ATS resume analyzer, AI career advisory, gamification with XP & leaderboards |
 | **[IntelliCampus](https://github.com/RayyanKimoi/IntelliCampus)** | Next.js, TypeScript, PostgreSQL, Pinecone, Redis | RAG tutoring pipeline, semantic cache, adaptive quizzes, multi-role API |
-| **[Spam Detection System](https://github.com/kanik10/spam-classifier)** | Python, Flask, scikit-learn, spaCy | Naive Bayes + TF-IDF, Gmail IMAP live classification |
-| **[Diabetes Prediction System](https://github.com/kanik10/Diabetes-Prediction-System)** | Python, Flask, Logistic Regression | End-to-end ML pipeline, REST API inference |
+| **[Abuse-Ring-Sentinel](https://github.com/kanik10/Abuse-Ring-Sentinel)** | Python, NetworkX, scikit-learn, Streamlit, D3.js, ReportLab, Docker | Graph-native fraud syndicate detection (Louvain + referral-cycle features), 100% precision/recall on 28 planted rings, 90.4% of fraud volume intercepted pre-clearance via zero-lookahead temporal backtest, SHAP explainability, SHA-256 hash-chained audit log |
+
 
 ---
 
